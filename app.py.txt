@@ -1,4 +1,0 @@
-print("hola mi nombre es felipe")
-print(naci el 28 de noviembre del 2006)
-print(localidad, teziutlan puebla)
-print(edad:19)
